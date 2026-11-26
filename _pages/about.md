@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Second Edition - co-located with <a href="https://edbticdt2026.github.io/">EDBT 2026 - March 2026</a>, Tampere, Finland 🇫🇮
+subtitle:  Third Edition - co-located with <a href="https://edbticdt2027.github.io/">EDBT 2027 - April 2027</a>, Lille, France 🇫🇷
 
 # profile:
 #   align: center
@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 
 Graphs are increasingly used to represent and capture information about interconnected real-world entities. A rich landscape of graph database systems has emerged to efficiently store, process, and analyse complex graph datasets. While these offer limited support for evolution mechanisms, the proliferation of continuously and collaboratively curated graph data has made it imperative to provide principled and tractable mechanisms to define and employ graph transformations and query languages.
 
-<svg class="container" version="1.1" xmlns="http://www.w3.org/2000/svg" style="display:block; width:40em; height:40em; margin:0em auto">
+<svg class="container" version="1.1" xmlns="http://www.w3.org/2000/svg" style="display:block; width:20em; height:20em; margin:0em auto">
     <radialGradient id="background-gradient">
       <stop offset="0" stop-color="rgba(0,0,0,0)" />
       <stop offset="1" stop-color="rgba(0,0,0,0)" />
